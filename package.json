@@ -1,0 +1,14 @@
+{
+  "name": "signaling-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:HibikineKage/signaling-server.git",
+  "author": "Hibikine Kage <goodsmile314159@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node signaling.js"
+  },
+  "dependencies": {
+    "ws": "^5.2.1"
+  }
+}
